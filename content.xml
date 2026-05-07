@@ -1,0 +1,1372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605071421596R4LRW</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507142159PLW5HF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Explorando el lenguaje del jazz en la banda</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Interpretación, improvisación y aprendizaje con play along</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>David Gutiérrez Postigo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto tiene como finalidad que el alumnado comprenda, interiorice e interprete el lenguaje del jazz dentro del contexto de la banda, desarrollando tanto habilidades técnicas como expresivas. A lo largo de las sesiones, el alumnado trabajará: la diferencia entre corchea
+recta y swing, la acentuación en partes débiles del compás, la articulación y el fraseo jazzístico, la lectura a primera vista en estilo jazz, la improvisación sobre progresiones armónicas sencillas.
+El aprendizaje se llevará a cabo mediante: interpretación, instrumental, ejercicios rítmicos y auditivos, trabajo por secciones, escucha activa, actividades creativas (improvisación y creación de riffs)
+El proyecto culminará con una interpretación final del repertorio trabajado, acompañada de un foro de reflexión y autoevaluación.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>public domain</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778144868216</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moucjn0j-s3wj9wxbb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción de proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción de proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moucjn0j-s3wj9wxbb</odePageId>
+      <odeBlockId>block-1778092707358-0rrws3v5m</odeBlockId>
+      <blockName></blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moucjn0j-s3wj9wxbb</odePageId>
+          <odeBlockId>block-1778092707358-0rrws3v5m</odeBlockId>
+          <odeIdeviceId>idevice-1778092707357-7rfm4jsyv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://drive.google.com/file/d/1idQuI5OCvzuGjCVdVYgtLBYB_b9KEQEq/view?usp=sharing">https://drive.google.com/file/d/1idQuI5OCvzuGjCVdVYgtLBYB_b9KEQEq/view?usp=sharing</a></p>
+<p><strong>Descripción</strong></p>
+<p>Este proyecto tiene como finalidad que el alumnado comprenda, interiorice e interprete el lenguaje del jazz dentro del contexto de la banda, desarrollando habilidades técnicas, auditivas y expresivas.</p>
+<p>A lo largo de las sesiones se trabajarán aspectos fundamentales como:</p>
+<p>el ritmo swing,<br />la articulación jazzística,<br />la lectura a primera vista,<br />la improvisación,<br />y la escucha activa.<br />El proyecto culminará con una interpretación final y un proceso de reflexión y autoevaluación musical.</p>
+<p><strong></strong><br /></p>
+<p><strong>Justificación</strong></p>
+<p>Esta propuesta surge de la necesidad de acercar al alumnado al lenguaje del jazz mediante una metodología práctica, creativa y motivadora.</p>
+<p>La utilización de herramientas digitales, play alongs y actividades cooperativas favorece la autonomía, la escucha activa y la participación del alumnado en contextos musicales reales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778092707357-7rfm4jsyv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://drive.google.com/file/d/1idQuI5OCvzuGjCVdVYgtLBYB_b9KEQEq/view?usp=sharing\">https://drive.google.com/file/d/1idQuI5OCvzuGjCVdVYgtLBYB_b9KEQEq/view?usp=sharing</a></p>\n<p><strong>Descripción</strong></p>\n<p>Este proyecto tiene como finalidad que el alumnado comprenda, interiorice e interprete el lenguaje del jazz dentro del contexto de la banda, desarrollando habilidades técnicas, auditivas y expresivas.</p>\n<p>A lo largo de las sesiones se trabajarán aspectos fundamentales como:</p>\n<p>el ritmo swing,<br />la articulación jazzística,<br />la lectura a primera vista,<br />la improvisación,<br />y la escucha activa.<br />El proyecto culminará con una interpretación final y un proceso de reflexión y autoevaluación musical.</p>\n<p><strong></strong><br /></p>\n<p><strong>Justificación</strong></p>\n<p>Esta propuesta surge de la necesidad de acercar al alumnado al lenguaje del jazz mediante una metodología práctica, creativa y motivadora.</p>\n<p>La utilización de herramientas digitales, play alongs y actividades cooperativas favorece la autonomía, la escucha activa y la participación del alumnado en contextos musicales reales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778145179537-gu1x4b6ec</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué vamos a aprender?</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778145179537-gu1x4b6ec</odePageId>
+      <odeBlockId>block-1778145265424-lqoohio50</odeBlockId>
+      <blockName></blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778145179537-gu1x4b6ec</odePageId>
+          <odeBlockId>block-1778145265424-lqoohio50</odeBlockId>
+          <odeIdeviceId>idevice-1778145265423-ouqu3riu7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span style="color: #3598db;">Objetivos</span></strong></p>
+<ul>
+<li><span style="color: #3598db;">Comprender el lenguaje propio del jazz.</span></li>
+<li><span style="color: #3598db;">Interpretar repertorio jazzístico en agrupación instrumental.</span></li>
+<li><span style="color: #3598db;">Desarrollar la escucha activa.</span></li>
+<li><span style="color: #3598db;">Mejorar la precisión rítmica y la afinación.</span></li>
+<li><span style="color: #3598db;">Introducir la improvisación musical.</span></li>
+<li><span style="color: #3598db;">Utilizar herramientas digitales aplicadas a la música</span><span style="color: #3598db;"></span><span style="color: #3598db;"></span></li>
+</ul>
+<p><span style="color: #2dc26b;"><strong>Contenidos</strong></span></p>
+<ul>
+<li><span style="color: #2dc26b;">Swing y articulación</span></li>
+<li><span style="color: #2dc26b;">Fraseo jazzístico</span></li>
+<li><span style="color: #2dc26b;">Improvisación<br /></span></li>
+<li><span style="color: #2dc26b;">Escucha activa<br /></span></li>
+<li><span style="color: #2dc26b;">Lectura a primera vista<br /></span></li>
+<li><span style="color: #2dc26b;">Trabajo cooperativo<br /></span></li>
+<li><span style="color: #2dc26b;">Grabación y análisis musical</span></li>
+</ul>
+<p><span style="color: #2dc26b;"></span></p>
+<p><span style="color: #f1c40f;"><strong>Competencias</strong></span><br /></p>
+<ul>
+<li><span style="color: #f1c40f;">Competencia digital</span><br /><span style="color: #f1c40f;"></span></li>
+<li><span style="color: #f1c40f;">Competencia cultural y artística</span><br /><span style="color: #f1c40f;"></span></li>
+<li><span style="color: #f1c40f;">Competencia personal y social</span><br /><span style="color: #f1c40f;"></span></li>
+<li><span style="color: #f1c40f;">Aprender a aprender</span></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778145265423-ouqu3riu7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span style=\"color: #3598db;\">Objetivos</span></strong></p>\n<ul>\n<li><span style=\"color: #3598db;\">Comprender el lenguaje propio del jazz.</span></li>\n<li><span style=\"color: #3598db;\">Interpretar repertorio jazzístico en agrupación instrumental.</span></li>\n<li><span style=\"color: #3598db;\">Desarrollar la escucha activa.</span></li>\n<li><span style=\"color: #3598db;\">Mejorar la precisión rítmica y la afinación.</span></li>\n<li><span style=\"color: #3598db;\">Introducir la improvisación musical.</span></li>\n<li><span style=\"color: #3598db;\">Utilizar herramientas digitales aplicadas a la música</span><span style=\"color: #3598db;\"></span><span style=\"color: #3598db;\"></span></li>\n</ul>\n<p><span style=\"color: #2dc26b;\"><strong>Contenidos</strong></span></p>\n<ul>\n<li><span style=\"color: #2dc26b;\">Swing y articulación</span></li>\n<li><span style=\"color: #2dc26b;\">Fraseo jazzístico</span></li>\n<li><span style=\"color: #2dc26b;\">Improvisación<br /></span></li>\n<li><span style=\"color: #2dc26b;\">Escucha activa<br /></span></li>\n<li><span style=\"color: #2dc26b;\">Lectura a primera vista<br /></span></li>\n<li><span style=\"color: #2dc26b;\">Trabajo cooperativo<br /></span></li>\n<li><span style=\"color: #2dc26b;\">Grabación y análisis musical</span></li>\n</ul>\n<p><span style=\"color: #2dc26b;\"></span></p>\n<p><span style=\"color: #f1c40f;\"><strong>Competencias</strong></span><br /></p>\n<ul>\n<li><span style=\"color: #f1c40f;\">Competencia digital</span><br /><span style=\"color: #f1c40f;\"></span></li>\n<li><span style=\"color: #f1c40f;\">Competencia cultural y artística</span><br /><span style=\"color: #f1c40f;\"></span></li>\n<li><span style=\"color: #f1c40f;\">Competencia personal y social</span><br /><span style=\"color: #f1c40f;\"></span></li>\n<li><span style=\"color: #f1c40f;\">Aprender a aprender</span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778091695619-z9upnyc4o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal y sequenciación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal y sequenciación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778091695619-z9upnyc4o</odePageId>
+      <odeBlockId>block-1778091940723-zhb7dfol4</odeBlockId>
+      <blockName></blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778091695619-z9upnyc4o</odePageId>
+          <odeBlockId>block-1778091940723-zhb7dfol4</odeBlockId>
+          <odeIdeviceId>idevice-1778091940723-pqwm5ukn8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://drive.google.com/file/d/1g6ChTlpSTXUcTKh32tSbNRAsXk2NeWGy/view?usp=drive_link">https://drive.google.com/file/d/1g6ChTlpSTXUcTKh32tSbNRAsXk2NeWGy/view?usp=drive_link</a></p>
+<p>La secuenciación del proyecto se organiza en cuatro sesiones donde el alumnado desarrollará progresivamente habilidades relacionadas con la interpretación, la improvisación y el análisis auditivo del lenguaje del jazz.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778091940723-pqwm5ukn8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://drive.google.com/file/d/1g6ChTlpSTXUcTKh32tSbNRAsXk2NeWGy/view?usp=drive_link\">https://drive.google.com/file/d/1g6ChTlpSTXUcTKh32tSbNRAsXk2NeWGy/view?usp=drive_link</a></p>\n<p>La secuenciación del proyecto se organiza en cuatro sesiones donde el alumnado desarrollará progresivamente habilidades relacionadas con la interpretación, la improvisación y el análisis auditivo del lenguaje del jazz.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778145616962-cc7td0mib</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tareas</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778145616962-cc7td0mib</odePageId>
+      <odeBlockId>block-1778145644286-bh9fzgm84</odeBlockId>
+      <blockName></blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778145616962-cc7td0mib</odePageId>
+          <odeBlockId>block-1778145644286-bh9fzgm84</odeBlockId>
+          <odeIdeviceId>idevice-1778145644285-k1ickhasw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las tareas propuestas en esta Situación de Aprendizaje están diseñadas para que el alumnado se aproxime al lenguaje del jazz de forma práctica, progresiva y motivadora dentro del contexto de la banda. A través de experiencias de interpretación, escucha activa, improvisación y trabajo cooperativo, el alumnado desarrollará competencias musicales, creativas y digitales vinculadas al estilo jazzístico.</p>
+<p>La secuenciación de las actividades permite avanzar desde una fase inicial de exploración y diagnóstico hasta la interpretación final del repertorio trabajado, favoreciendo en todo momento la participación activa, la autonomía y la reflexión sobre el propio aprendizaje.</p>
+<p>Además, las actividades integran el uso de herramientas digitales musicales como MuseScore, Audacity, Google Classroom o recursos play along, fomentando tanto la competencia digital como la capacidad de autoevaluación y mejora continua del alumnado.</p>
+<p>1. ¿Qué sabes del Jazz?<br />Actividad inicial de diagnóstico donde el alumnado reflexionará sobre sus conocimientos previos acerca del jazz, sus características principales y algunos de sus músicos o estilos más representativos.</p>
+<p><br />2. Swing en Movimiento<br />Actividad práctica centrada en el trabajo del ritmo swing, la articulación y el fraseo característico del jazz mediante ejercicios rítmicos e interpretación en grupo.<br />Escuchamos Autumn Leaves<br /></p>
+<p>3. Audición guiada y análisis musical de la obra Autumn Leaves, identificando elementos como la melodía, el ritmo, la armonía y el estilo interpretativo.<br /></p>
+<p>4. Primera Lectura<br />Actividad de lectura a primera vista en estilo jazz, favoreciendo la capacidad de adaptación, la concentración y la interpretación colectiva.<br /></p>
+<p>5.Ensayo por partes<br />Trabajo por secciones instrumentales para mejorar la precisión rítmica, afinación, coordinación y comprensión del lenguaje jazzístico dentro de la banda.<br /></p>
+<p>6. Improvisando Jazz<br />Introducción a la improvisación musical mediante pequeñas propuestas creativas sobre progresiones armónicas sencillas y patrones rítmicos propios del jazz.<br /></p>
+<p>7. Grabamos la Banda<br />Grabación de los ensayos e interpretaciones utilizando herramientas digitales para analizar el resultado musical y favorecer la autoevaluación del alumnado.<br /></p>
+<p>8. Escucha y Comentamos<br />Actividad final de escucha reflexiva donde el alumnado analizará las grabaciones realizadas, compartiendo opiniones, dificultades y propuestas de mejora.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778145644285-k1ickhasw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las tareas propuestas en esta Situación de Aprendizaje están diseñadas para que el alumnado se aproxime al lenguaje del jazz de forma práctica, progresiva y motivadora dentro del contexto de la banda. A través de experiencias de interpretación, escucha activa, improvisación y trabajo cooperativo, el alumnado desarrollará competencias musicales, creativas y digitales vinculadas al estilo jazzístico.</p>\n<p>La secuenciación de las actividades permite avanzar desde una fase inicial de exploración y diagnóstico hasta la interpretación final del repertorio trabajado, favoreciendo en todo momento la participación activa, la autonomía y la reflexión sobre el propio aprendizaje.</p>\n<p>Además, las actividades integran el uso de herramientas digitales musicales como MuseScore, Audacity, Google Classroom o recursos play along, fomentando tanto la competencia digital como la capacidad de autoevaluación y mejora continua del alumnado.</p>\n<p>1. ¿Qué sabes del Jazz?<br />Actividad inicial de diagnóstico donde el alumnado reflexionará sobre sus conocimientos previos acerca del jazz, sus características principales y algunos de sus músicos o estilos más representativos.</p>\n<p><br />2. Swing en Movimiento<br />Actividad práctica centrada en el trabajo del ritmo swing, la articulación y el fraseo característico del jazz mediante ejercicios rítmicos e interpretación en grupo.<br />Escuchamos Autumn Leaves<br /></p>\n<p>3. Audición guiada y análisis musical de la obra Autumn Leaves, identificando elementos como la melodía, el ritmo, la armonía y el estilo interpretativo.<br /></p>\n<p>4. Primera Lectura<br />Actividad de lectura a primera vista en estilo jazz, favoreciendo la capacidad de adaptación, la concentración y la interpretación colectiva.<br /></p>\n<p>5.Ensayo por partes<br />Trabajo por secciones instrumentales para mejorar la precisión rítmica, afinación, coordinación y comprensión del lenguaje jazzístico dentro de la banda.<br /></p>\n<p>6. Improvisando Jazz<br />Introducción a la improvisación musical mediante pequeñas propuestas creativas sobre progresiones armónicas sencillas y patrones rítmicos propios del jazz.<br /></p>\n<p>7. Grabamos la Banda<br />Grabación de los ensayos e interpretaciones utilizando herramientas digitales para analizar el resultado musical y favorecer la autoevaluación del alumnado.<br /></p>\n<p>8. Escucha y Comentamos<br />Actividad final de escucha reflexiva donde el alumnado analizará las grabaciones realizadas, compartiendo opiniones, dificultades y propuestas de mejora.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778146060493-qz71tzl39</odePageId>
+  <odeParentPageId>page-1778145616962-cc7td0mib</odeParentPageId>
+  <pageName>1. ¿Qué sabes del Jazz? </pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. ¿Qué sabes del Jazz? </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778146060493-qz71tzl39</odePageId>
+      <odeBlockId>block-1778146062931-nczzug51m</odeBlockId>
+      <blockName></blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778146060493-qz71tzl39</odePageId>
+          <odeBlockId>block-1778146062931-nczzug51m</odeBlockId>
+          <odeIdeviceId>idevice-1778146062930-hcjcx03u2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Realizar una evaluación inicial sobre los conocimientos previos del alumnado relacionados con el jazz y su lenguaje musical.</p>
+<p>AGRUPAMIENTO: Individual<br />TIEMPO APROXIMADO: 1 sesión - 15 minutos<br />HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO : Test virtual <br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778146062930-hcjcx03u2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Realizar una evaluación inicial sobre los conocimientos previos del alumnado relacionados con el jazz y su lenguaje musical.</p>\n<p>AGRUPAMIENTO: Individual<br />TIEMPO APROXIMADO: 1 sesión - 15 minutos<br />HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO : Test virtual <br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778146060493-qz71tzl39</odePageId>
+      <odeBlockId>block-1778146293970-zbtpvbwah</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778146060493-qz71tzl39</odePageId>
+          <odeBlockId>block-1778146293970-zbtpvbwah</odeBlockId>
+          <odeIdeviceId>idevice-1778146293969-3hwmjiugu</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1778146293969-3hwmjiugu" data-evaluationb="false" data-evaluationid="ce276a7f-4d17-48ec-a5e7-e026a1cf75d3"></div>
+            <div id="frmMainContainer-idevice-1778146293969-3hwmjiugu" class="form-IDevice" data-id="idevice-1778146293969-3hwmjiugu">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:flex;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1778146293969-3hwmjiugu">15:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1778146293969-3hwmjiugu" style="display:flex;">
+                      <button  id="frmStartGame-idevice-1778146293969-3hwmjiugu" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1778146293969-3hwmjiugu" style="display:none;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1778146293969-3hwmjiugu" > </div>
+                        <div id="frmCover-idevice-1778146293969-3hwmjiugu" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1778146293969-3hwmjiugu" class="form-results-container inline">
+                        <div id="form-score-idevice-1778146293969-3hwmjiugu" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1778146293969-3hwmjiugu" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1778146293969-3hwmjiugu" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1778146293969-3hwmjiugu" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1778146293969-3hwmjiugu" type="button" value="Reiniciar"
+                            data-id="idevice-1778146293969-3hwmjiugu" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1778146293969-3hwmjiugu" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1778146293969-3hwmjiugu" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1778146293969-3hwmjiugu" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778146293969-3hwmjiugu","evaluation":false,"evaluationID":"ce276a7f-4d17-48ec-a5e7-e026a1cf75d3","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1778146293969-3hwmjiugu","questionsRandom":false,"percentageQuestions":"10","time":"15","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1778146767514-85KLA","activityType":"fill","baseText":"<p>¿¿Qué sabes sobre la música jazz?<br />¿Has escuchado alguna vez una obra de jazz? ¿Cuál?<br />¿Qué instrumentos relacionas con el jazz?<br />¿Sabes qué significa el término “swing” en música?<br />¿Qué diferencias crees que existen entre la música clásica y el jazz?<br />¿Conoces algún músico o cantante famoso de jazz?<br />¿Crees que la improvisación es importante en el jazz? ¿Por qué?<br />¿Qué emociones o sensaciones te transmite la música jazz?<br />¿Has interpretado alguna vez música jazz con tu instrumento?<br />¿Qué te gustaría aprender sobre el jazz durante este proyecto?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1778146822580-AR67G","activityType":"fill","baseText":"","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778147057077-yunroii63</odePageId>
+  <odeParentPageId>page-1778145616962-cc7td0mib</odeParentPageId>
+  <pageName>2. Swing en movimiento</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Swing en movimiento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Swing en movimiento</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778147057077-yunroii63</odePageId>
+      <odeBlockId>block-1778147144297-i3w29h7gu</odeBlockId>
+      <blockName></blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778147057077-yunroii63</odePageId>
+          <odeBlockId>block-1778147144297-i3w29h7gu</odeBlockId>
+          <odeIdeviceId>idevice-1778147144296-oeo897nlz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Desarrollar la comprensión rítmica del swing y aplicar los elementos característicos del estilo jazzístico en la interpretación instrumental.</p>
+<p>RECURSOS: Ejercicios rítmicos y melódicos (Musescore), Audiciones (Youtube)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778147144296-oeo897nlz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Desarrollar la comprensión rítmica del swing y aplicar los elementos característicos del estilo jazzístico en la interpretación instrumental.</p>\n<p>RECURSOS: Ejercicios rítmicos y melódicos (Musescore), Audiciones (Youtube)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778147299274-h3umc2t6q</odePageId>
+  <odeParentPageId>page-1778145616962-cc7td0mib</odeParentPageId>
+  <pageName>3. Escuchamos Autumn Leaves </pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Escuchamos Autumn Leaves </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778147299274-h3umc2t6q</odePageId>
+      <odeBlockId>block-1778147301739-hr8blxjx0</odeBlockId>
+      <blockName></blockName>
+      <iconName>start</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778147299274-h3umc2t6q</odePageId>
+          <odeBlockId>block-1778147301739-hr8blxjx0</odeBlockId>
+          <odeIdeviceId>idevice-1778147301738-kg4ubc8tv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado realizará una escucha guiada y análisis auditivo de Autumn Leaves, identificando elementos como el fraseo, la articulación y la estructura armónica.</p>
+<p><a href="https://youtu.be/Op-SmOl0ouo?si=YO26baF_8n4Oit-o">https://youtu.be/Op-SmOl0ouo?si=YO26baF_8n4Oit-o</a></p>
+<p>AGRUPAMIENTO: Individual y por grupo reducidos<br />1 sesión - 30 minutos </p>
+<p>30 minutos</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778147301738-kg4ubc8tv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado realizará una escucha guiada y análisis auditivo de Autumn Leaves, identificando elementos como el fraseo, la articulación y la estructura armónica.</p>\n<p><a href=\"https://youtu.be/Op-SmOl0ouo?si=YO26baF_8n4Oit-o\">https://youtu.be/Op-SmOl0ouo?si=YO26baF_8n4Oit-o</a></p>\n<p>AGRUPAMIENTO: Individual y por grupo reducidos<br />1 sesión - 30 minutos </p>\n<p>30 minutos</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778147717369-g4lk4odsx</odePageId>
+  <odeParentPageId>page-1778145616962-cc7td0mib</odeParentPageId>
+  <pageName>4. Primera Lectura </pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Primera Lectura </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778147717369-g4lk4odsx</odePageId>
+      <odeBlockId>block-1778147719267-w8ks5sy6h</odeBlockId>
+      <blockName></blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778147717369-g4lk4odsx</odePageId>
+          <odeBlockId>block-1778147719267-w8ks5sy6h</odeBlockId>
+          <odeIdeviceId>idevice-1778147719266-araslwotp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Potenciar la flexibilidad musical mediante ejercicios de lectura a primera vista e interpretación colectiva.</p>
+<p>RECURSOS: A través del aula virtual Google Classroom se facilitará la partitura. También tendréis acceso mediante este enlace:</p>
+<p><a href="https://drive.google.com/file/d/1M5sogslLm0IAc5NQmNOSIadJiXGYvUI5/view?usp=sharing">https://drive.google.com/file/d/1M5sogslLm0IAc5NQmNOSIadJiXGYvUI5/view?usp=sharing</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778147719266-araslwotp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Potenciar la flexibilidad musical mediante ejercicios de lectura a primera vista e interpretación colectiva.</p>\n<p>RECURSOS: A través del aula virtual Google Classroom se facilitará la partitura. También tendréis acceso mediante este enlace:</p>\n<p><a href=\"https://drive.google.com/file/d/1M5sogslLm0IAc5NQmNOSIadJiXGYvUI5/view?usp=sharing\">https://drive.google.com/file/d/1M5sogslLm0IAc5NQmNOSIadJiXGYvUI5/view?usp=sharing</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778147992225-eebsde68r</odePageId>
+  <odeParentPageId>page-1778145616962-cc7td0mib</odeParentPageId>
+  <pageName>5. Ensayo por partes </pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Ensayo por partes </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778147992225-eebsde68r</odePageId>
+      <odeBlockId>block-1778147994764-51z204hvk</odeBlockId>
+      <blockName></blockName>
+      <iconName>music</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778147992225-eebsde68r</odePageId>
+          <odeBlockId>block-1778147994764-51z204hvk</odeBlockId>
+          <odeIdeviceId>idevice-1778147994762-v2uk5kvry</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Realizaremos el ensayo por secciones y en conjunto de la obra objeto de estudio.</p>
+<p>AGRUPAMIENTO: Secciones y colectiva<br />3 sesiones - 30 minutos</p>
+<p>Recursos: Afinador y Metrónomo digital.</p>
+<p> <a href="https://www.imusic-school.com/es/herramientas/afinador-en-linea/">https://www.imusic-school.com/es/herramientas/afinador-en-linea/</a></p>
+<p><a href="https://www.imusic-school.com/es/herramientas/metronomo-en-linea/">https://www.imusic-school.com/es/herramientas/metronomo-en-linea/</a></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778147994762-v2uk5kvry","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Realizaremos el ensayo por secciones y en conjunto de la obra objeto de estudio.</p>\n<p>AGRUPAMIENTO: Secciones y colectiva<br />3 sesiones - 30 minutos</p>\n<p>Recursos: Afinador y Metrónomo digital.</p>\n<p> <a href=\"https://www.imusic-school.com/es/herramientas/afinador-en-linea/\">https://www.imusic-school.com/es/herramientas/afinador-en-linea/</a></p>\n<p><a href=\"https://www.imusic-school.com/es/herramientas/metronomo-en-linea/\">https://www.imusic-school.com/es/herramientas/metronomo-en-linea/</a></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778148323582-ttykqmpwk</odePageId>
+  <odeParentPageId>page-1778145616962-cc7td0mib</odeParentPageId>
+  <pageName>6. Improvisando Jazz </pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Improvisando Jazz </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778148323582-ttykqmpwk</odePageId>
+      <odeBlockId>block-1778148326228-idsx3lyd6</odeBlockId>
+      <blockName></blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778148323582-ttykqmpwk</odePageId>
+          <odeBlockId>block-1778148326228-idsx3lyd6</odeBlockId>
+          <odeIdeviceId>idevice-1778148326228-iys1ff4ud</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Practicaremos la improvisación sobre una progresión armónica en modo mayor (IIm7–V7–Imaj7), desarrollando la creatividad musical y la comprensión de las funciones tonales. </p>
+<p>AGRUPAMIENTO: Secciones instrumentales<br />2 sesiones - 30 minutos</p>
+<p>RECURSOS: Musescore (Ficha de escalas y arpegios) y lovepdf (convertidor pdf)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778148326228-iys1ff4ud","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Practicaremos la improvisación sobre una progresión armónica en modo mayor (IIm7–V7–Imaj7), desarrollando la creatividad musical y la comprensión de las funciones tonales. </p>\n<p>AGRUPAMIENTO: Secciones instrumentales<br />2 sesiones - 30 minutos</p>\n<p>RECURSOS: Musescore (Ficha de escalas y arpegios) y lovepdf (convertidor pdf)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778148695297-87jpdif7x</odePageId>
+  <odeParentPageId>page-1778145616962-cc7td0mib</odeParentPageId>
+  <pageName>7. Grabamos la Banda </pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Grabamos la Banda </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778148695297-87jpdif7x</odePageId>
+      <odeBlockId>block-1778148697319-9fwyql1yq</odeBlockId>
+      <blockName></blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778148695297-87jpdif7x</odePageId>
+          <odeBlockId>block-1778148697319-9fwyql1yq</odeBlockId>
+          <odeIdeviceId>idevice-1778148697319-pw68ujvwo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Registrar las interpretaciones musicales mediante herramientas digitales para favorecer la escucha reflexiva y la autoevaluación. Se grabaran varias versiones en las que se suprimirán las diferentes secciones para que posteriormente puedan practicar en casa incluyendo la parte omitida.</p>
+<p>AGRUPAMIENTO: Colectiva<br />2 sesiones - 45 minutos</p>
+<p>RECURSOS: Audacity (Editor de audio), ordenador; micrófonos, pies de micros, cableado, reproductor de audio.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778148697319-pw68ujvwo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Registrar las interpretaciones musicales mediante herramientas digitales para favorecer la escucha reflexiva y la autoevaluación. Se grabaran varias versiones en las que se suprimirán las diferentes secciones para que posteriormente puedan practicar en casa incluyendo la parte omitida.</p>\n<p>AGRUPAMIENTO: Colectiva<br />2 sesiones - 45 minutos</p>\n<p>RECURSOS: Audacity (Editor de audio), ordenador; micrófonos, pies de micros, cableado, reproductor de audio.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778149242126-jhh4z4q03</odePageId>
+  <odeParentPageId>page-1778145616962-cc7td0mib</odeParentPageId>
+  <pageName>8. Escucha y Comentamos</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Escucha y Comentamos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778149242126-jhh4z4q03</odePageId>
+      <odeBlockId>block-1778149243900-2vs5h9346</odeBlockId>
+      <blockName></blockName>
+      <iconName>listen</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778149242126-jhh4z4q03</odePageId>
+          <odeBlockId>block-1778149243900-2vs5h9346</odeBlockId>
+          <odeIdeviceId>idevice-1778149243900-m2bf9yeok</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A través de la escucha reflexiva dinamizamos nuestras impresiones en un foro feedback</p>
+<p>AGRUPAMIENTO: Individual (escucha) y Colectiva (feddback)<br />1 sesión - 15 minutos</p>
+<p>RECURSOS: Reproductor de audio</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778149243900-m2bf9yeok","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A través de la escucha reflexiva dinamizamos nuestras impresiones en un foro feedback</p>\n<p>AGRUPAMIENTO: Individual (escucha) y Colectiva (feddback)<br />1 sesión - 15 minutos</p>\n<p>RECURSOS: Reproductor de audio</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778091714264-hjng0l6n7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778091714264-hjng0l6n7</odePageId>
+      <odeBlockId>block-1778091929866-hf9r3f8yw</odeBlockId>
+      <blockName></blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778091714264-hjng0l6n7</odePageId>
+          <odeBlockId>block-1778091929866-hf9r3f8yw</odeBlockId>
+          <odeIdeviceId>idevice-1778091929864-lnswhvkqy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación será continua, formativa y basada en evidencias reales del desempeño musical del alumnado.</p>
+<p>Criterios de evaluación</p>
+<p>1. ¿Qué sabes del Jazz? : Se pretende medir el grado de autorregulación en el aprendizaje, observable cuando el alumno planifica, desarrolla y ajusta su estudio individual mediante estrategias eficaces, evidenciando su progreso a través de diarios, grabaciones o herramientas digitales de seguimiento.<br /></p>
+<p>2. Swing en Movimiento: Integrar y aplicar el máximo de conocimientos históricos, analíticos y estéticos a nuestra interpretación individual y de grupo para trascender la mera lectura de notas (alturas y ritmos).<br /></p>
+<p>3. Escuchamos Autumn Leaves : Se valorará la capacidad del alumno para construir un discurso musical coherente, evidenciada en la integración de conocimientos históricos, analíticos y estéticos en la toma de decisiones interpretativas (dinámica, articulación y carácter) tras un análisis previo de la obra.<br /></p>
+<p>4. Primera Lectura: Se evaluará la flexibilidad musical del alumno, demostrada en actividades de lectura a primera vista e improvisación, observando cómo responde con continuidad rítmica, coherencia musical y una disposición abierta ante propuestas no estructuradas.<br /></p>
+<p>5. Ensayo por partes: Con este criterio se evaluará la habilidad del alumno para adaptar su interpretación a distintos géneros y estilos, aplicando sus rasgos característicos con coherencia musical en repertorio del siglo XX, música española del siglo XXI y jazz.<br /></p>
+<p>6. Improvisando Jazz: Se evaluará la flexibilidad musical del alumno, demostrada en actividades de lectura a primera vista e improvisación, observando cómo responde con continuidad rítmica, coherencia musical y una disposición abierta ante propuestas no estructuradas.<br /></p>
+<p>7. Grabamos la Banda: Se pretende medir el grado de autorregulación en el aprendizaje, observable cuando el alumno planifica, desarrolla y ajusta su estudio individual mediante estrategias eficaces, evidenciando su progreso a través de diarios, grabaciones o herramientas digitales de seguimiento.</p>
+<p>8. Escucha y Comentamos<br />Se pretende medir el grado de autorregulación en el aprendizaje, observable cuando el alumno planifica, desarrolla y ajusta su estudio individual mediante estrategias eficaces, evidenciando su progreso a través de diarios, grabaciones o herramientas digitales de seguimiento.</p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778091929864-lnswhvkqy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación será continua, formativa y basada en evidencias reales del desempeño musical del alumnado.</p>\n<p>Criterios de evaluación</p>\n<p>1. ¿Qué sabes del Jazz? : Se pretende medir el grado de autorregulación en el aprendizaje, observable cuando el alumno planifica, desarrolla y ajusta su estudio individual mediante estrategias eficaces, evidenciando su progreso a través de diarios, grabaciones o herramientas digitales de seguimiento.<br /></p>\n<p>2. Swing en Movimiento: Integrar y aplicar el máximo de conocimientos históricos, analíticos y estéticos a nuestra interpretación individual y de grupo para trascender la mera lectura de notas (alturas y ritmos).<br /></p>\n<p>3. Escuchamos Autumn Leaves : Se valorará la capacidad del alumno para construir un discurso musical coherente, evidenciada en la integración de conocimientos históricos, analíticos y estéticos en la toma de decisiones interpretativas (dinámica, articulación y carácter) tras un análisis previo de la obra.<br /></p>\n<p>4. Primera Lectura: Se evaluará la flexibilidad musical del alumno, demostrada en actividades de lectura a primera vista e improvisación, observando cómo responde con continuidad rítmica, coherencia musical y una disposición abierta ante propuestas no estructuradas.<br /></p>\n<p>5. Ensayo por partes: Con este criterio se evaluará la habilidad del alumno para adaptar su interpretación a distintos géneros y estilos, aplicando sus rasgos característicos con coherencia musical en repertorio del siglo XX, música española del siglo XXI y jazz.<br /></p>\n<p>6. Improvisando Jazz: Se evaluará la flexibilidad musical del alumno, demostrada en actividades de lectura a primera vista e improvisación, observando cómo responde con continuidad rítmica, coherencia musical y una disposición abierta ante propuestas no estructuradas.<br /></p>\n<p>7. Grabamos la Banda: Se pretende medir el grado de autorregulación en el aprendizaje, observable cuando el alumno planifica, desarrolla y ajusta su estudio individual mediante estrategias eficaces, evidenciando su progreso a través de diarios, grabaciones o herramientas digitales de seguimiento.</p>\n<p>8. Escucha y Comentamos<br />Se pretende medir el grado de autorregulación en el aprendizaje, observable cuando el alumno planifica, desarrolla y ajusta su estudio individual mediante estrategias eficaces, evidenciando su progreso a través de diarios, grabaciones o herramientas digitales de seguimiento.</p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778149838434-vusy1zik5</odePageId>
+  <odeParentPageId>page-1778091714264-hjng0l6n7</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778149838434-vusy1zik5</odePageId>
+      <odeBlockId>block-1778149840032-axce6lyit</odeBlockId>
+      <blockName></blockName>
+      <iconName>calculate</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778149838434-vusy1zik5</odePageId>
+          <odeBlockId>block-1778149840032-axce6lyit</odeBlockId>
+          <odeIdeviceId>idevice-1778149840031-u6dbqiyzt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí podrás ver las rúbricas sobre las que se constata el grado de consecución de las diferentes tareas y de la unidad en general.</p>
+<p><a href="https://docs.google.com/document/d/1lmuVy1rFUMvTethpljIneE2GFGGDoTskrnG2U-aC4Tw/edit?usp=drive_link">https://docs.google.com/document/d/1lmuVy1rFUMvTethpljIneE2GFGGDoTskrnG2U-aC4Tw/edit?usp=drive_link</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778149840031-u6dbqiyzt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí podrás ver las rúbricas sobre las que se constata el grado de consecución de las diferentes tareas y de la unidad en general.</p>\n<p><a href=\"https://docs.google.com/document/d/1lmuVy1rFUMvTethpljIneE2GFGGDoTskrnG2U-aC4Tw/edit?usp=drive_link\">https://docs.google.com/document/d/1lmuVy1rFUMvTethpljIneE2GFGGDoTskrnG2U-aC4Tw/edit?usp=drive_link</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778091653006-p62qu99ra</odePageId>
+  <odeParentPageId>page-1778091714264-hjng0l6n7</odeParentPageId>
+  <pageName>Recursos</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778091653006-p62qu99ra</odePageId>
+      <odeBlockId>block-1778092006225-uh8yc3tuq</odeBlockId>
+      <blockName></blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778091653006-p62qu99ra</odePageId>
+          <odeBlockId>block-1778092006225-uh8yc3tuq</odeBlockId>
+          <odeIdeviceId>idevice-1778092006224-yg34fed9z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Diferentes enlaces y recursos que sirven al alumnado de orientación y apoyo para el desarrollo de este proyecto formativo.</p>
+<p><a href="https://padlet.com/davidgpmusic/la-orquesta-en-casa-p7uz9pe0gynvrabc">https://padlet.com/davidgpmusic/la-orquesta-en-casa-p7uz9pe0gynvrabc</a></p>
+<p>El siguiente enlace  ofrece al docente un entorno visual e intuitivo donde puedo organizar, exponer y acercar al alumnado los recursos que utilizo habitualmente en el desarrollo diario de mis clases. Todo un click</p>
+<p><a href="https://www.symbaloo.com/home/mix/13eP2K30KT">https://www.symbaloo.com/home/mix/13eP2K30KT</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778092006224-yg34fed9z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Diferentes enlaces y recursos que sirven al alumnado de orientación y apoyo para el desarrollo de este proyecto formativo.</p>\n<p><a href=\"https://padlet.com/davidgpmusic/la-orquesta-en-casa-p7uz9pe0gynvrabc\">https://padlet.com/davidgpmusic/la-orquesta-en-casa-p7uz9pe0gynvrabc</a></p>\n<p>El siguiente enlace  ofrece al docente un entorno visual e intuitivo donde puedo organizar, exponer y acercar al alumnado los recursos que utilizo habitualmente en el desarrollo diario de mis clases. Todo un click</p>\n<p><a href=\"https://www.symbaloo.com/home/mix/13eP2K30KT\">https://www.symbaloo.com/home/mix/13eP2K30KT</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moucjn0k-ks1nllc7u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos y garantías</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y garantías</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y garantías</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Protección de datos y garantías</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moucjn0k-ks1nllc7u</odePageId>
+      <odeBlockId>block-1778091342328-09e2svz8s</odeBlockId>
+      <blockName></blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moucjn0k-ks1nllc7u</odePageId>
+          <odeBlockId>block-1778091342328-09e2svz8s</odeBlockId>
+          <odeIdeviceId>idevice-1778091342327-9qtrisf9h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante el proyecto utilizaremos herramientas digitales de forma responsable, respetando la privacidad, la protección de datos y los derechos digitales.</p>
+<p><span style="color: #843fa1;"><strong>Normas digitales</strong></span></p>
+<ul>
+<li><span style="color: #843fa1;">No compartir contraseñas</span><br /><span style="color: #843fa1;"></span></li>
+<li><span style="color: #843fa1;">Respetar imágenes y audios</span><br /><span style="color: #843fa1;"></span></li>
+<li><span style="color: #843fa1;">Utilizar recursos con licencia</span><br /><span style="color: #843fa1;"></span></li>
+<li><span style="color: #843fa1;">Mantener una comunicación respetuosa</span></li>
+</ul>
+<p><span style="color: #843fa1;"><a href="https://drive.google.com/file/d/129XeFU9sKL9Bn_lOk9JNck7KBB5QyQC-/view?usp=sharing">https://drive.google.com/file/d/129XeFU9sKL9Bn_lOk9JNck7KBB5QyQC-/view?usp=sharing</a></span></p>
+<p><span style="color: #843fa1;"></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778091342327-9qtrisf9h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante el proyecto utilizaremos herramientas digitales de forma responsable, respetando la privacidad, la protección de datos y los derechos digitales.</p>\n<p><span style=\"color: #843fa1;\"><strong>Normas digitales</strong></span></p>\n<ul>\n<li><span style=\"color: #843fa1;\">No compartir contraseñas</span><br /><span style=\"color: #843fa1;\"></span></li>\n<li><span style=\"color: #843fa1;\">Respetar imágenes y audios</span><br /><span style=\"color: #843fa1;\"></span></li>\n<li><span style=\"color: #843fa1;\">Utilizar recursos con licencia</span><br /><span style=\"color: #843fa1;\"></span></li>\n<li><span style=\"color: #843fa1;\">Mantener una comunicación respetuosa</span></li>\n</ul>\n<p><span style=\"color: #843fa1;\"><a href=\"https://drive.google.com/file/d/129XeFU9sKL9Bn_lOk9JNck7KBB5QyQC-/view?usp=sharing\">https://drive.google.com/file/d/129XeFU9sKL9Bn_lOk9JNck7KBB5QyQC-/view?usp=sharing</a></span></p>\n<p><span style=\"color: #843fa1;\"></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778150564785-cp7sjqgot</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778150564785-cp7sjqgot</odePageId>
+      <odeBlockId>block-1778150566509-yj3abtc0g</odeBlockId>
+      <blockName></blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778150564785-cp7sjqgot</odePageId>
+          <odeBlockId>block-1778150566509-yj3abtc0g</odeBlockId>
+          <odeIdeviceId>idevice-1778150566508-ctc0gvjs9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este documento te servirá de orientación sobre el proceso de aprendizaje.</p>
+<p><a href="https://docs.google.com/document/d/1lmuVy1rFUMvTethpljIneE2GFGGDoTskrnG2U-aC4Tw/edit?usp=drive_link">https://docs.google.com/document/d/1lmuVy1rFUMvTethpljIneE2GFGGDoTskrnG2U-aC4Tw/edit?usp=drive_link</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778150566508-ctc0gvjs9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este documento te servirá de orientación sobre el proceso de aprendizaje.</p>\n<p><a href=\"https://docs.google.com/document/d/1lmuVy1rFUMvTethpljIneE2GFGGDoTskrnG2U-aC4Tw/edit?usp=drive_link\">https://docs.google.com/document/d/1lmuVy1rFUMvTethpljIneE2GFGGDoTskrnG2U-aC4Tw/edit?usp=drive_link</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778150957389-k2l691mji</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778150957389-k2l691mji</odePageId>
+      <odeBlockId>block-1778150959649-8uyxaklgp</odeBlockId>
+      <blockName></blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778150957389-k2l691mji</odePageId>
+          <odeBlockId>block-1778150959649-8uyxaklgp</odeBlockId>
+          <odeIdeviceId>idevice-1778150959647-9m946y4h1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong></p>
+<p>Autor: David Gutiérrez</p>
+<p>Situación de Aprendizaje desarrollada para Enseñanzas Profesionales de Música.</p>
+<p><strong>Licencia</strong></p>
+<p>Este recurso se comparte bajo licencia Creative Commons BY-NC-SA.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778150959647-9m946y4h1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong></p>\n<p>Autor: David Gutiérrez</p>\n<p>Situación de Aprendizaje desarrollada para Enseñanzas Profesionales de Música.</p>\n<p><strong>Licencia</strong></p>\n<p>Este recurso se comparte bajo licencia Creative Commons BY-NC-SA.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
